@@ -7,3 +7,6 @@ $run_dev.*
 ^myshinyapp\.Rcheck$
 ^myshinyapp.*\.tar\.gz$
 ^myshinyapp.*\.tgz$
+^ddogma\.Rcheck$
+^ddogma.*\.tar\.gz$
+^ddogma.*\.tgz$
