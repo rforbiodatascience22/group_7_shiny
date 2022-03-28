@@ -14,7 +14,9 @@ URL: https://github.com/rforbiodatascience22/group_7_shiny.git
 BugReports: 
     https://github.com/rforbiodatascience22/group_7_shiny.git/issues
 Imports: 
+    centralDogma,
     config (>= 0.3.1),
+    ggplot2,
     golem (>= 0.3.2),
     magrittr,
     shiny (>= 1.7.1)
