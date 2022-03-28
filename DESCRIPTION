@@ -1,7 +1,26 @@
 Package: ddogma
 Title: pkgddogma
 Version: 0.0.0.9000
-Authors@R: person('Dimitris', 'Loukas', email = 's220514@dtu.dk', role = c('cre', 'aut'))
+Authors@R: c(person(given = "Siddhi",
+           family = "Jain",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "siddhiyjain@gmail.com"), 
+    person(given = "Paolo",
+           family = "Federico",
+           role = "aut",
+           email = "s212975@student.dtu.dk"),
+    person(given = "Anna",
+           family = "Miotto",
+           role = "aut",
+           email = "s220674@dtu.dk"),
+    person(given = "Federica",
+           family = "Rapelli",
+           role = "aut",
+           email = "s210156@dtu.dk"),
+    person(given = "Dimitris",
+           family = "Loukas",
+           role = "aut",
+           email = "s220514@dtu.dk"))
 Description: Ddogma_description.
 License: MIT + file LICENSE
 Imports: 
