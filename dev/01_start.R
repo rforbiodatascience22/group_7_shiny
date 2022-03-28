@@ -19,13 +19,13 @@
 ## to change the name in the app_sys() function in app_config.R /!\
 ##
 golem::fill_desc(
-  pkg_name = "myshinyapp", # The Name of the package containing the App
-  pkg_title = "PKG_TITLE", # The Title of the package containing the App
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App
-  author_first_name = "AUTHOR_FIRST", # Your First Name
-  author_last_name = "AUTHOR_LAST", # Your Last Name
-  author_email = "AUTHOR@MAIL.COM", # Your Email
-  repo_url = NULL # The URL of the GitHub Repo (optional)
+  pkg_name = "ddogma", # The Name of the package containing the App
+  pkg_title = "pkgddogma", # The Title of the package containing the App
+  pkg_description = "Ddogma_description.", # The Description of the package containing the App
+  author_first_name = "Dimitris", # Your First Name
+  author_last_name = "Loukas", # Your Last Name
+  author_email = "s220514@dtu.dk", # Your Email
+  repo_url = "https://github.com/rforbiodatascience22/group_7_shiny.git" # The URL of the GitHub Repo (optional)
 )
 
 ## Set {golem} options ----

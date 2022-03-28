@@ -7,6 +7,12 @@ $run_dev.*
 ^myshinyapp\.Rcheck$
 ^myshinyapp.*\.tar\.gz$
 ^myshinyapp.*\.tgz$
+<<<<<<< HEAD
 ^ddogma\.Rcheck$
 ^ddogma.*\.tar\.gz$
 ^ddogma.*\.tgz$
+=======
+^LICENSE\.md$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$
+>>>>>>> 667fe285ebc1f8d8276a551614939bfbf4deb9ee
