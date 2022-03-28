@@ -10,3 +10,5 @@ $run_dev.*
 ^ddogma\.Rcheck$
 ^ddogma.*\.tar\.gz$
 ^ddogma.*\.tgz$
+^LICENSE\.md$
+^README\.Rmd$
