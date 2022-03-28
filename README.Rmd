@@ -13,17 +13,29 @@ knitr::opts_chunk$set(
 )
 ```
 
+<<<<<<< HEAD
 # myshinyapp
+=======
+# ddogma
+>>>>>>> 667fe285ebc1f8d8276a551614939bfbf4deb9ee
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
+<<<<<<< HEAD
 The goal of myshinyapp is to ...
 
 ## Installation
 
 You can install the development version of myshinyapp from [GitHub](https://github.com/) with:
+=======
+The goal of ddogma is to ...
+
+## Installation
+
+You can install the development version of ddogma from [GitHub](https://github.com/) with:
+>>>>>>> 667fe285ebc1f8d8276a551614939bfbf4deb9ee
 
 ``` r
 # install.packages("devtools")
@@ -35,7 +47,11 @@ devtools::install_github("rforbiodatascience22/group_7_shiny")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
+<<<<<<< HEAD
 library(myshinyapp)
+=======
+library(ddogma)
+>>>>>>> 667fe285ebc1f8d8276a551614939bfbf4deb9ee
 ## basic example code
 ```
 
